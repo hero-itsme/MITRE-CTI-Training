@@ -1,0 +1,18 @@
+Module 0:
+Introducing MITRE ATT&CK®
+for Cyber Threat Intelligence Training
+
+Cyber Threat Intelligence
+Threat intelligence is actionable knowledge and
+insight on adversaries and their malicious
+activities enabling defenders and their
+organizations to reduce harm through better
+security decision-making.
+-Sergio Caltagirone
+Training Goals:
+Why ATT&CK is useful for cyber threat intelligence (CTI)
+How to map to ATT&CK from both narrative reporting and raw data
+How to store and display ATT&CK-mapped data and what you should
+consider when doing that
+How to perform CTI analysis using ATT&CK-mapped data
+How to make defensive recommendations
