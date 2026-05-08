@@ -1,18 +1,41 @@
-Module 0:
+
 Introducing MITRE ATT&CK®
 for Cyber Threat Intelligence Training
 
-Cyber Threat Intelligence
-Threat intelligence is actionable knowledge and
-insight on adversaries and their malicious
-activities enabling defenders and their
-organizations to reduce harm through better
-security decision-making.
--Sergio Caltagirone
-Training Goals:
-Why ATT&CK is useful for cyber threat intelligence (CTI)
-How to map to ATT&CK from both narrative reporting and raw data
-How to store and display ATT&CK-mapped data and what you should
-consider when doing that
-How to perform CTI analysis using ATT&CK-mapped data
-How to make defensive recommendations
+1. Core Definition: Cyber Threat Intelligence (CTI)
+The training adopts Sergio Caltagirone’s definition: CTI is actionable knowledge about adversaries and their activities that enables defenders to make better security decisions and reduce harm.
+
+2. How ATT&CK Enhances CTI
+The primary value of using the ATT&CK framework in threat intelligence is the ability to structure data. This allows analysts to:
+
+Compare Behaviors: Contrast different threat groups, track how a single group evolves over time, and compare adversary tactics against existing internal defenses.
+
+Provide a Common Language: It bridges the communication gap between different teams:
+
+Analyst to Defender: An analyst can identify a specific technique (e.g., T1547.001 - Registry Run Keys), and a defender immediately knows which data sources (Registry data) are needed for detection.
+
+Community Sharing: Organizations can share intelligence using standardized IDs that everyone understands.
+
+3. Training Goals
+The module outlines five key objectives for the full course:
+
+Understand Utility: Why ATT&CK is the standard for CTI.
+
+Mapping: How to extract ATT&CK techniques from both narrative reports (text-based) and raw data.
+
+Data Management: How to store and visualize mapped data.
+
+Analysis: How to perform actual threat analysis using the mapped data.
+
+Actionability: How to turn intelligence into concrete defensive recommendations.
+
+4. Roadmap of the Training Series
+Module 0 sets the stage for the subsequent lessons:
+
+Module 1: Mapping from Narrative Reporting (External reports).
+
+Module 2: Mapping from Raw Data.
+
+Module 3: Storing and Analyzing (Using tools like ATT&CK Navigator).
+
+Module 4: Making Defensive Recommendations.
