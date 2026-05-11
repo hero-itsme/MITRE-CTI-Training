@@ -35,4 +35,4 @@ The core of this module is a repeatable, rigorous process designed to ensure acc
 * **TRAM (Threat Report ATT&CK Mapper):** An open-source tool designed to assist in automating the identification of ATT&CK techniques within prose.
 
 ---
-*Summary generated based on MITRE ATT&CK Training Materials.*
+
