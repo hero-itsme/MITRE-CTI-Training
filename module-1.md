@@ -6,13 +6,17 @@ Resources for practice
 [Highlights Only](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20highlights%20only.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
 
 [Tactic Hints](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20tactic%20hints.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+
 [Report Answers](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20answers.pdf) One set of answers for the exercise.
+
 [Original Report](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20original%20report.pdf)
 
 ## FireEye APT39 Report (Unguided)
-Highlights Only Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
-Answers One set of answers for the exercise
-Original Report
+[Highlights Only](https://attack.mitre.org/docs/training-cti/FireEye%20APT39%20-%20highlights%20only.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+
+[Answers](https://attack.mitre.org/docs/training-cti/FireEye%20APT39%20-%20answers.pdf) One set of answers for the exercise
+
+[Original Report](https://attack.mitre.org/docs/training-cti/FireEye%20APT39%20-%20original%20report.pdf)
 
 ---
 
