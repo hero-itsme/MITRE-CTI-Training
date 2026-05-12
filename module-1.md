@@ -101,31 +101,31 @@ It is critical to recognize our biases in CTI
 
 ## Consumer Bias:
 
-□ (1) Novelty Bias
+□ **(1) Novelty Bias**
 
 Repetitive behaviors vs. Exciting Emerging Threat
 
-□ (2) Availability Bias
+□ **(2) Availability Bias**
 
 Techniques we remember vs. techniques we’re not as familiar with
 
 ## Source Bias:
 
-□ (1) Availability Bias
+□ **(1) Availability Bias**
 
 Reporting and Attribution skewed towards the incident
 response data/specific behaviors each vendor sees regularly
 
-□ (2) Visibility Bias
+□ **(2) Visibility Bias**
 
 Data aligned with sensors vs all activity
 
-□ (3) Victim Bias
+□ **(3) Victim Bias**
 
 Report development impacted by the interest the victim/
 target engenders, and how open they are to reporting
 
-□ (4) Novelty Bias
+□ **(4) Novelty Bias**
 
 Marketing and Level of Impact can motivate what type of
 reports are produced
