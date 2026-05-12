@@ -21,32 +21,44 @@ Resources for practice
 ---
 ## Understand ATT&CK
 ▪ Complete the ATT&CK Fundamentals training
+
 ▪ Watch an ATT&CK presentation like MITRE ATT&CK: The Play at
 Home Edition, from Black Hat USA 2019
+
 ▪ Read the Philosophy Paper and items from ATT&CK’s Getting
 Started page
+
 ▪ Read the Tactic descriptions
+
 ▪ Skim the Techniques and Sub-techniques
+
 ▪ Learn a Technique and associated Sub-techniques a week
+
 ▪ Review Techniques and Sub-techniques with another analyst or a
 team
 
 ## 🎯 1.Mapping to ATT&CK: Challenges and Advantages
 Advantages
+
 ▪ Forces a shift in thinking about
 behaviors: from indicators
+
 ▪ Allows opportunities to
 discover new adversary
 techniques
+
 ▪ Facilitates enhanced learning
 of the “technical” side
 
 Challenges
+
 ▪ Mapping to ATT&CK
 requires a shift in thinking
+
 ▪ The volume of ATT&CK
 techniques & subtechniques can seem
 overwhelming
+
 ▪ The “technical” detail of
 some ATT&CK techniques
 can seem complex
@@ -66,49 +78,68 @@ The core of this module is a repeatable, rigorous process designed to ensure acc
 10. **Re-evaluate Over Time:** Update your mappings as the ATT&CK framework or your understanding of the threat evolves.
 
 ## 🛠️ 3. Strategy for identifying What Technique & Sub Applies
-1. Strategy 1: Review the list of Techniques and Sub-techniques for the Tactic you previously identified
-2. Strategy 2: Search the ATT&CK site for Key Words and Details and Commands Strings
-3. Strategy 3: Assess a few “Techniques Used” on the Group and Software pages to review how ATT&CK performs technique analysis
+1. **Strategy 1:** Review the list of Techniques and Sub-techniques for the Tactic you previously identified
+2. **Strategy 2:** Search the ATT&CK site for Key Words and Details and Commands Strings
+3. **Strategy 3:** Assess a few “Techniques Used” on the Group and Software pages to review how ATT&CK performs technique analysis
+   
    For Example: Take adversary behaviors such as:
+   
 □ (1) ‘used email attachments,’
+
 □ (2) ‘create scheduled task,’ and
+
 □ (3) ‘installed tools’
 
 ## ⚠️ 3. Hedging Your Biases
 It is critical to recognize our biases in CTI
+
 ▪ Two key types of bias in technique examples in ATT&CK
+
 □ Bias introduced by us as consumers
+
 □ Bias inherent in the sources we use
 
 ## Consumer Bias:
+
 □ (1) Novelty Bias
 Repetitive behaviors vs. Exciting Emerging Threat
+
 □ (2) Availability Bias
 Techniques we remember vs. techniques we’re not as familiar with
 
 ## Source Bias:
+
 □ (1) Availability Bias
 Reporting and Attribution skewed towards the incident
 response data/specific behaviors each vendor sees regularly
+
 □ (2) Visibility Bias
 Data aligned with sensors vs all activity
+
 □ (3) Victim Bias
 Report development impacted by the interest the victim/
 target engenders, and how open they are to reporting
+
 □ (4) Novelty Bias
 Marketing and Level of Impact can motivate what type of
 reports are produced
 
 ## Strategies for Hedging Biases
+
 ▪ Collaborate and identify ways to
   mitigate biases
+  
 ▪ Diversity of thought makes for stronger teams
+
 ▪ Adjust and calibrate your data
   sources
+  
 ▪ Add different data sources
   (including your own)
+  
 ▪ Prioritize the known over the
   unknown
+  
 ▪ As opposed to absolute comparis
 
 ## 🧰 4. Practical Tools
