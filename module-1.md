@@ -3,7 +3,7 @@
 This module focuses on the interpretive methodology of translating text-based threat intelligence—such as vendor blogs and internal reports—into standardized ATT&CK techniques.
 Resources for practice
 ## Cybereason Cobalt Kitty Report (Guided)
-Highlights Only Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+[Highlights Only](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20highlights%20only.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
 Tactic Hints Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
 Report Answers One set of answers for the exercise.
 Original Report
