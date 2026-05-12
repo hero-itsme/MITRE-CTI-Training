@@ -1,6 +1,17 @@
 # Module 1: Mapping to ATT&CK from Narrative Reports
 
 This module focuses on the interpretive methodology of translating text-based threat intelligence—such as vendor blogs and internal reports—into standardized ATT&CK techniques.
+Resources for practice
+## Cybereason Cobalt Kitty Report (Guided)
+Highlights Only Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+Tactic Hints Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+Report Answers One set of answers for the exercise.
+Original Report
+
+## FireEye APT39 Report (Unguided)
+Highlights Only Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+Answers One set of answers for the exercise
+Original Report
 
 ---
 
