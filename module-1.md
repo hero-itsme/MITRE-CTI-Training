@@ -4,9 +4,10 @@ This module focuses on the interpretive methodology of translating text-based th
 Resources for practice
 ## Cybereason Cobalt Kitty Report (Guided)
 [Highlights Only](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20highlights%20only.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
-Tactic Hints Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
-Report Answers One set of answers for the exercise.
-Original Report
+
+[Tactic Hints](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20tactic%20hints.pdf) Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
+[Report Answers](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20answers.pdf) One set of answers for the exercise.
+[Original Report](https://attack.mitre.org/docs/training-cti/Cybereason%20Cobalt%20Kitty%20-%20original%20report.pdf)
 
 ## FireEye APT39 Report (Unguided)
 Highlights Only Identifies the highlighted behaviors you should map to tactics and techniques for a more challenging exercise.
