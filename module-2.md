@@ -12,10 +12,25 @@ Raw data represents the primary, unfiltered evidence collected during an inciden
 * **Network Traffic:** PCAP files and Netflow data.
 * **System Changes:** Modifications to Registry keys and the file system.
 
-## ⚖️ 2. The Challenge of Raw Data
-The transition from narrative reports to raw data introduces significant complexity:
-* **High Volume, Low Context:** Raw data is massive in scale and lacks the pre-interpreted "story" found in narrative reports.
-* **Intent Identification:** Analysts must find the "needle in the haystack" and manually determine the **Tactic** (intent) behind a specific technical action.
+## ⚖️ 2. The Challenge and Advantages of Mapping Raw Data to ATT&CK
+Challenges: 
+
+* A more advanced level of knowledge may be required
+  
+* You may need to review a lot more data that require different levels of expertise
+  
+* Adversary intent and tactics may be more difficult to identify, and require additional sources
+
+Advantages: 
+
+* Likely more information available at the procedure level/more detail in the data
+  
+* Not reinterpreting another analyst’s prose/more insight into the behaviors
+  
+* Facilitates enhanced learning of the “technical” side
+
+**Pros/Cons of Mapping from the Two Sources**
+<img width="840" height="442" alt="image" src="https://github.com/user-attachments/assets/016c6471-2dbc-4eb4-828d-102e5b64c1fb" />
 
 ## 🔍 3. Mapping Methodologies
 The 10-step methodology from Module 1 remains the foundation, supplemented by three specific approaches for raw evidence:
