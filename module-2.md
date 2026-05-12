@@ -2,6 +2,19 @@
 
 While Module 1 focuses on "finished" narrative reports, this module addresses the technical challenge of analyzing raw evidence—such as logs, malware samples, and command-line captures—to identify adversary TTPs.
 
+Resources for practice:
+**Ticket 473822 (Guided)**
+
+[Ticket 473822 Rich Text File] Provides raw data from a simulated incident for you to use to annotate applicable ATT&CK tactics and techniques.
+
+[Ticket 473822 Answers](https://attack.mitre.org/docs/training-cti/ticket-473822%20answers.pdf) Provides one set of answers for the exercise.
+
+**Ticket 473845 (Guided)**
+
+[Ticket 473845 Rich Text File](https://attack.mitre.org/docs/training-cti/ticket-473845.rtf) Provides raw data from a simulated incident for you to use to annotate applicable ATT&CK tactics and techniques.
+
+[Ticket 473845 Answers](https://attack.mitre.org/docs/training-cti/ticket-473845%20answers.pdf) Provides one set of answers for the exercise.
+
 ---
 
 ## 🛠️ 1. What is "Raw Data" in CTI?
