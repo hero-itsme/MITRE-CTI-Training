@@ -25,12 +25,28 @@ The **ATT&CK Navigator** is the essential tool for visualizing and analyzing thr
 * **Layer Overlays:** Combine multiple layers to find overlaps. 
     * *Example:* Merging three ransomware layers might reveal a shared reliance on RDP for lateral movement, highlighting a critical detection priority.
 
-## 🔍 4. Analysis Techniques
+## 🗺️ 4. Comparing Layers in Navigator
+Refer to the Resources section for Exercise 
+
+[Comparing Layers in Navigator](https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf) Provides detailed instructions for using Navigator to compare techniques used by APT39 and Cobalt Kitty (OceanLotus). You may find it useful to print this document (in color if possible) to have it as a reference as you work through the exercise on your screen.
+
+[APT39 and Cobalt Kitty techniques](https://attack.mitre.org/docs/training-cti/APT39%20and%20Cobalt%20Kitty%20techniques.pdf) A list of the techniques used by APT39 and Cobalt Kitty (OceanLotus) extracted from the reports in Exercise 2. If you are already familiar with Navigator, you could use these techniques to try to create and compare layers yourself.
+
+• The techniques and sub-techniques are listed in the “APT39 and Cobalt Kitty Techniques” PDF
+
+Here are the following steps to do this task:
+* Open ATT&CK Navigator: [http://bit.ly/attacknav](http://bit.ly/attacknav)
+* Enter the techniques and sub-techniques from APT39 and Cobalt Kitty/OceanLotus into separate Navigator layers with a unique score for each layer.
+* Combine the layers in Navigator to create a third layer
+* Color score your third layer
+* Make a list of the techniques and sub-techniques that overlap between the twogroups
+   
+## 🔍 5. Analysis Techniques
 * **Adversary Comparison (Choke Points):** Identify techniques used by multiple adversaries. Defending a "choke point" breaks the attack chain for various groups simultaneously.
 * **Trend Analysis:** Monitor shifts in adversary TTPs, such as the move from document Macros to ISO or LNK files.
 * **Gap Analysis:** Compare external threat intelligence (adversary actions) against internal coverage (existing detections and visibility).
 
-## 🌐 5. Data Standards: STIX and TAXII
+## 🌐 6. Data Standards: STIX and TAXII
 To facilitate information sharing across the security community, the module highlights:
 * **STIX (Structured Threat Information eXpression):** A standardized language for representing CTI.
 * **TAXII (Trusted Automated eXchange of Intelligence Information):** The protocol used to transport STIX data.
