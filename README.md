@@ -59,4 +59,4 @@ This training provides a structured approach to using the ATT&CK framework to tr
 * [ATT&CK Website](https://attack.mitre.org/) - Primary knowledge base for mitigations and data sources.
 
 ---
-*Summary generated based on MITRE ATT&CK Training Materials.*
+
