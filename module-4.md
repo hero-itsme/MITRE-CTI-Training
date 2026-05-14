@@ -33,17 +33,23 @@ To generate effective, actionable recommendations, analysts should follow this w
    
 ## 🔄 4. The Recommendation Process
 1. **Determine Priority Techniques:**
+   
    <img width="902" height="520" alt="image" src="https://github.com/user-attachments/assets/9fdb3b5d-3ea4-4e94-a08e-697bace32044" />
-2. **Research How Techniques or Sub-techniques Are Being Used:**
+3. **Research How Techniques or Sub-techniques Are Being Used:**
+   
    <img width="912" height="505" alt="image" src="https://github.com/user-attachments/assets/6785b435-6263-4bf0-bd34-f70721ef63c7" />
-4. **Research Defensive Options Related to Technique or Sub-technique:**
+5. **Research Defensive Options Related to Technique or Sub-technique:**
+   
    <img width="898" height="520" alt="image" src="https://github.com/user-attachments/assets/ca5af21b-6435-4c8e-8f1d-21ec81672e89" />
     <img width="928" height="469" alt="image" src="https://github.com/user-attachments/assets/9fc7eaa9-fa3f-4f2e-b9d1-8c91a2409dc3" />
-5. **Research Organizational Capabilities/Constraints:**
+7. **Research Organizational Capabilities/Constraints:**
+   
    <img width="907" height="476" alt="image" src="https://github.com/user-attachments/assets/e865c1ec-1fc8-4f27-8d0c-c66384d4ce31" />
-6. **Determine the Option-specific Trade-offs for Your Enterprise:**
+9. **Determine the Option-specific Trade-offs for Your Enterprise:**
+    
    <img width="915" height="499" alt="image" src="https://github.com/user-attachments/assets/399f7457-3de9-442d-bf9a-8dba9dfa2f4a" />
-8. **Make Defensive Recommendations:**
+11. **Make Defensive Recommendations:**
+    
    <img width="901" height="443" alt="image" src="https://github.com/user-attachments/assets/a361d7a1-376d-423d-8c1d-49b05cc4dcd9" />
 
 
